@@ -1,0 +1,10 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+ssgVersion: 3.9.0
+buildCommand: jekyll build
+publishDir: _site
+staticDir: ''
+uploadDir: images
+dataDir: _data
+pagesDir: '_pages'
+pageLayoutKey: layout
